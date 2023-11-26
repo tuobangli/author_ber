@@ -1,1 +1,1 @@
-# author_ber this is all from ber
+# author_ber sent emails to all stat, continue send others
