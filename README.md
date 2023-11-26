@@ -1,1 +1,1 @@
-# author_ber sent emails to all mcb, continue send others
+# author_ber sent emails to all 
