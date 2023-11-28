@@ -2,9 +2,7 @@
 
 order points rank from 1-15, according to the order of read.
 
-Then further rank from 1-30, accoridng to the order of reply.
-
-For more details, according to the contribution.
+For co-coresponding authors, according to signficant contribution.
 
 suppose the total author number is 60, then, for a order point of 3/30, it might be 4th or 58th.
 
