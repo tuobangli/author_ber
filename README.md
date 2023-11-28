@@ -1,6 +1,6 @@
 # author_ber sent emails to all, finished.
 
-order points rank from 1-15, according to the order of read.
+order points, according to the order of read.
 
 For co-first, co-coresponding authors, according to signficant contribution.
 
