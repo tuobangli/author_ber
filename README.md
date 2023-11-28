@@ -9,3 +9,4 @@ suppose the total author number is 60, then, for a order point of 3/30, it might
 i.e., =60 times 2/3 times 3/30
 
 =60-60 times 1/3 times 3/30
+
