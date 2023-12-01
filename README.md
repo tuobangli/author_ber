@@ -11,3 +11,5 @@ i.e., =60 times 2/3 times 3/30
 =60-60 times 1/3 times 3/30.
 
 Further confimred by the order of reply (the total order, not split to different papers), following an odd, even pattern, for odd reply, it is the head, for even reply, it is the tail.
+
+Contact Donoho
