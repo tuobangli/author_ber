@@ -1,1 +1,1 @@
-Hawaii hotel Saipan
+15-20
